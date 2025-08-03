@@ -484,19 +484,19 @@ const BUG_SPRITE_DICTIONARY = {
 
 const BUG_STAT_DICTIONARY = {
 	"meep": {
-		"health": 20,
+		"health": 10,
 		"value": 2,
 		"speed": 1.578,
 		"damage": 2,
 		},
 	"fob": {
-		"health": 10,
+		"health": 5,
 		"value": 1,
 		"speed": 2.5,
 		"damage": 1,
 		},
 	"borf": {
-		"health": 100,
+		"health": 50,
 		"value": 5,
 		"speed": 1,
 		"damage": 5,
@@ -504,7 +504,7 @@ const BUG_STAT_DICTIONARY = {
 	"spoid": {
 		"health": 120,
 		"value": 4,
-		"speed": 1.276,
+		"speed": 0.8,
 		"damage": 4,
 		},
 	"tini_spoid": {

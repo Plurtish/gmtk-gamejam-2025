@@ -490,19 +490,19 @@ const BUG_STAT_DICTIONARY = {
 		"damage": 2,
 		},
 	"fob": {
-		"health": 15,
+		"health": 10,
 		"value": 1,
-		"speed": 1.7,
+		"speed": 2.5,
 		"damage": 1,
 		},
 	"borf": {
-		"health": 50,
+		"health": 100,
 		"value": 5,
 		"speed": 1,
 		"damage": 5,
 		},
 	"spoid": {
-		"health": 43,
+		"health": 120,
 		"value": 4,
 		"speed": 1.276,
 		"damage": 4,
@@ -515,41 +515,41 @@ const BUG_STAT_DICTIONARY = {
 		},
 	"bleep": 
 		{
-		"health": 45,
+		"health": 75,
 		"value": 7,
-		"speed": 1.94,
+		"speed": 2.25,
 		"damage": 4,
 		},
 	"zonk": {
 		"health": 25,
 		"value": 12,
-		"speed": 3.145,
+		"speed": 3.5,
 		"damage": 7,
 		},
 	#region lez stats
 	"lezzz_tail": {
-		"health": 40,
+		"health": 50,
 		"value": 2,
-		"speed": 1.578,
+		"speed": 1.2,
 		"damage": .75,
 		},
 	"lezzz_middle": {
-		"health": 40,
+		"health": 50,
 		"value": 2,
-		"speed": 1.578,
+		"speed": 1.2,
 		"damage": .75,
 		},
 	"lezzz_head": {
-		"health": 40,
+		"health": 100,
 		"value": 2,
-		"speed": 1.578,
+		"speed": 1.2,
 		"damage": .75,
 		},
 		#endregion lez stats
 	"smorg": {
-		"health": 1200,
+		"health": 2000,
 		"value": 50,
 		"speed": .5,
-		"damage": 13,
+		"damage": 50,
 	}
 }

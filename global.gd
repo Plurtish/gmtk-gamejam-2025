@@ -6,7 +6,7 @@ var editor
 var disableMouse = false
 
 var unitBaseCost = 50
-var bits = 7500000
+var bits = 150
 
 var timeScale = 1.0
 
